@@ -1,0 +1,22 @@
+table{
+    border: 1px solid;
+    
+}
+td{
+   
+    background-color: aqua;
+    width: 80px;
+}
+tr{
+    border: 1px solid;
+    
+
+}
+th{
+    border: 1px solid;
+    background-color: brown;
+    color: white;
+}
+.display{
+    margin-top: 10px;
+}
